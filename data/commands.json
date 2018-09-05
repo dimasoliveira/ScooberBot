@@ -1,1 +1,221 @@
-[null,{"name":"druk","permissions":"NONE","restriction":"1","actions":[{"storage":"0","varName":"","name":"Delete Message"},{"info":"1","find":"dispatcher","storage":"1","varName":"dispatcher_role","name":"Find Role"},{"member":"1","varName":"","role":"3","varName2":"dispatcher_role","iftrue":"0","iftrueVal":"","iffalse":"1","iffalseVal":"","name":"Check If Member has Role"},{"channel":"3","varName":"","message":"Het is momenteel erg druk, de dispatcher kan helaas niet op al je berichtjes reageren.\nLaten we even door fietsen om de drukte door te komen!","storage":"0","varName2":"","name":"Send Message"}]},{"name":"huisregels","permissions":"NONE","restriction":"1","actions":[{"storage":"0","varName":"","name":"Delete Message"},{"channel":"1","varName":"","message":"Hierbij onze huisregels:\n\n1. **Wees respectvol**\nOp de loods behandelen we elkaar met respect, zowel in de omgang als de communicatie.\n\n2. **Communiceer in het Nederlands of Engels**\nDit doen we zodat voor iedereen verstaanbaar is wat we tegen elkaar zeggen.\n\n3. **Laat je spullen netjes achter**\nJe fiets kan strak tegen de andere fietsen in de oplader. Je voorbak haal je netjes leeg en je tas zet je open terug bij de andere tassen.\n\n4. **Houd het toilet schoon**\nGa naar het toilet zoals je dat thuis ook zou doen. Laat het schoon achter voor je collega's.\n\n5. **Ruim je afval op**\nEten op de loods is prima, maar ruim wel altijd even je afval op. Je kunt dit weggooien in de ondergrondse vuilniscontainer aan de Jufferstraat.","storage":"0","varName2":"","name":"Send Message"}]},{"name":"10geboden","permissions":"NONE","restriction":"1","actions":[{"storage":"0","varName":"","name":"Delete Message"},{"channel":"1","varName":"","message":"Hierbij de **10 Geboden van een goede bezorger**:\n\n1. **Blijf verbonden**\nJe telefoon is je werk. Zorg daarom dat je een powerbank bij je hebt en je telefoon minimaal 90% batterij heeft aan het begin van je shift. Ook heb je voldoende data nodig om altijd online te blijven. Houdt Discord en Scoober altijd goed in de gaten.\n\n2. **Wees op tijd**\nZorg dat je een kwartier voor aanvang van je shift aanwezig bent op de loods om je spullen te pakken. Wees ook op tijd bij het restaurant en bij de klant. Beiden krijgen een tijd door wanneer ze jou verwachten, zorg dan ook dat je (voor) die tijd bent. \n\n3. **Klaar voor de start... af!**\nCheck altijd even de route naar de klant wanneer je in het restaurant staat te wachten. Bereid je volledig voor, zodat je direct kunt vertrekken wanneer je het eten hebt ontvangen.\n\n4. **Communiceer**\nCommunicatie is ontzettend belangrijk bij Thuisbezorgd. Als er iets onverwachts gebeurd of je hebt hulp nodig, communiceer dan direct naar de dispatcher! Zo kan de dispatcher jou helpen met een oplossing. \n\n5. **Wees een Ninja in het restaurant**\nGedraag je netjes en rustig in het restaurant. Er zitten vaak mensen te eten en die willen niet gestoord worden. Pas op met je tas en bel niet in het restaurant.\n\n6. **Klant is koning**\nBehandel de klant met respect. Groet beleefd, en wens hem eetsmakelijk en een fijne avond. Lachen mag altijd! :D\n\n7. **Eten is heilig**\nHet eten moet warm en heel bij de klant aankomen. Zorg dus dat je voorzichtig de tas opzet en het onderweg niet door de tas wordt geschud. \n\n8. **Oranje familie**\nEén team één taak. Wij helpen elkaar en gaan respectvol met elkaar om. \n\n9. **Geef onderweg het goede voorbeeld**\nJe bent herkenbaar werkzaam voor Thuisbezorgd. Houdt je dus aan de Nederlandse verkeersregels. \n\n10. **Dress to impress**\nKom verzorgd op werk. Draag altijd een (korte) spijkerbroek tijdens werk, draag geen eigen hoofddeksels en zorg dat je bovenste kledingstuk altijd van Thuisbezorgd is.","storage":"0","varName2":"","name":"Send Message"}]},{"name":"ziek","permissions":"NONE","restriction":"1","actions":[{"storage":"0","varName":"","name":"Delete Message"},{"channel":"1","varName":"","message":"Ziekmelden kan 's ochtends tussen **09:00 en 10:00** op het volgend telefoonnummer: **+31617752045 :telephone:**.\nJe krijgt telefonisch toestemming om vervanging te zoeken. Je bent zelf verantwoordelijk voor het regelen van je vervanging. Dit doe je in de discordgroep van Scoober Rotterdam in de chat tijd-wissel-channel. Degene die als eerst op jouw vraag reageert valt voor je in. Je geeft vervolgens in de chat door wie er voor je invalt en daarbij tag je de Hub Coordinator die online is.\n\nVerder dien je je ook ziek te melden bij Randstad. Dit dien je tussen 09:00-10:30 te doen door dit via de **Mijn Randstad app** aan te geven. In het linker menu onder het kopje 'Gezondheidszaken' kun je jezelf ziekmelden.\n\nAls je bent ziekgemeld wordt je 4 dagen uitgeroosterd (incl. de dag van de ziekmelding). Voor de dagen na je ziekmelding hoef je geen vervanging te regelen. \n\nSucces en beterschap!","storage":"0","varName2":"","name":"Send Message"}]},{"name":"verlof","permissions":"NONE","restriction":"1","actions":[{"storage":"0","varName":"","name":"Delete Message"},{"channel":"1","varName":"","message":"Als je op vakantie wilt of wanneer je een tentamenweek op school hebt, kan je hier verlof voor aanvragen. \n1. **Via de Scoober app**: Wanneer je in je Scoober app in je shiftplanning kijkt, kun je daar een vakantieverzoek indienen. Druk op het vliegtuigje rechtsbovenin (Android) of druk op vakanties (Apple) en dien hier een vakantieverzoek in. Benoem altijd de reden waarom je de periode vrij wilt van werk. \n\n2. **Via de website:** Wanneer je naar https://shiftplanning.scoober.com/ gaat kun je hier inloggen met je eigen gegevens. Linksbovenin kun je drukken op het kopje 'vakanties'. Je kunt hier de begin- en einddatum invoeren en de reden waarom je verlof wilt aanvragen. \n\nHet is nu afwachten tot je teamleider het verzoek tot verlof goedkeurt.","storage":"0","varName2":"","name":"Send Message"}]},{"name":"beschikbaarheid","permissions":"NONE","restriction":"1","actions":[{"storage":"0","varName":"","name":"Delete Message"},{"channel":"1","varName":"","message":"Je kunt je beschikbaarheid doorgeven via de shiftplanning in je Scoober app of via https://shiftplanning.scoober.com/. Geef **uiterlijk dinsdag 23:59 uur** je beschikbaarheid voor die week erop door. Zorg dat je **minimaal 2 shifts** beschikbaar bent, waarbij 1 shift bestaat uit minimaal 5 aaneengesloten uren. Het is ook toegestaan dat je minder dan 5 aaneengesloten uren beschikbaar bent, wanneer je van bijvoorbeeld 18:00-22:00 beschikbaar bent (4 aaneengesloten uren).\n\nWanneer je jezelf meer dan 5 uur beschikbaar zet (bijv. 6 of 7 aaneengesloten uren) dan heb je meer kans om ingeroosterd te worden. Ook heb je in de avond meer kans om ingeroosterd te worden, dan tijdens de lunch. \n\nWanneer je geen beschikbaarheid hebt doorgegeven word je op non-actief gezet totdat je een gesprek hebt gevoerd met je leidinggevende.","storage":"0","varName2":"","name":"Send Message"}]},{"name":"kleding","permissions":"NONE","restriction":"1","actions":[{"storage":"0","varName":"","name":"Delete Message"},{"channel":"1","varName":"","message":"Er gelden enkele kledingvoorschriften bij Thuisbezorgd. Deze kledingvoorschriften staan vast en hier valt niet over te discussiëren. Als je je niet aan deze voorschriften houdt kan je niet werken.\n\n**Hoofddeksels**\nDe enige hoofddeksels die altijd zijn toegestaan zijn Thuisbezorgd petjes en religieuze hoofddeksels. \nHet dragen van een muts wordt in de winter toegestaan in verband met de kou. Het dragen van een capuchon wordt alleen tijdens regen toegestaan. Eigen petjes zijn niet toegestaan.\n\n**Kleding**\nThuisbezorgd kleding is verplicht. Daarnaast dragen wij tijdens werk een (korte) spijkerbroek.\nHet dragen van sportkleding/jogging broeken is niet toegestaan. Verder is kleding met open rug of buik niet toegestaan, net zoals; zwembroeken; rokken; jurkjes en hotpants. Deze kleding beschermt je namelijk niet bij eventuele valpartijen. \n\n**Schoenen**\nWij dragen tijdens het werken dichte schoenen.\nSandalen, slippers of blote voeten zijn niet toegestaan. Ook hakken zijn niet toegestaan.","storage":"0","varName2":"","name":"Send Message"}]},{"name":"uitbetaling","permissions":"NONE","restriction":"1","actions":[{"storage":"0","varName":"","name":"Delete Message"},{"channel":"1","varName":"","message":"Je krijgt elke week uitbetaald door Randstad. Op woensdag of donderdag krijg je het geld op je rekening (afhankelijk van jouw bank), waarbij je later die dag de loonstrook binnenkrijgt. Deze is te zien in de 'Mijn Randstad' app onder het kopje 'geldzaken'.","storage":"0","varName2":"","name":"Send Message"}]},{"name":"startdienst","permissions":"NONE","restriction":"1","actions":[{"storage":"0","varName":"","name":"Delete Message"},{"channel":"1","varName":"","message":"Bij de start van je dienst dien je **15 minuten van te voren op de loods** te zijn. Dit is zodat je even de tijd hebt om een fiets en een tas uit te kiezen en door te geven. \nBij het begin van je dienst dient je **telefoon een batterij van minimaal 90%** te hebben. Let op: dit kan gecheckt worden! Een powerbank bij je hebben is verplicht.\nGa uit jezelf de loods uit zodat je op de **start van je shift al buiten** bent.","storage":"0","varName2":"","name":"Send Message"}]},{"name":"vakantiesaldo","permissions":"NONE","restriction":"1","actions":[{"storage":"0","varName":"","name":"Delete Message"},{"channel":"1","varName":"","message":"Wekelijks bouw je vakantiesaldo op bij Randstad. Jouw vakantiesaldo kun je vinden in de 'Mijn Randstad' app onder het kopje 'uren'. Het staat ook onderaan op je wekelijkse loonstrook.\n\nWanneer je dit geld uitbetaald wilt krijgen kun je dit zelf in je app aanvragen. Ga naar 'Mijn uren' en start de huidige week. Nu kan je bij 'overige uren' kiezen voor 'vakantie uren'. Vul het aantal uur in op de dag dat je deze wilt opnemen (maximaal 8 uur per dag). Je kunt je vakantie uren dus ook verdelen over meerdere dagen. Zorg er wel voor dat je de dagen dat je vakantie uren opneemt NIET WERKT, anders kan het vakantiesaldo niet uitbetaald worden. Sla het op en druk op 'verstuur week'. Je krijgt het aantal opgenomen vakantie uren de volgende week op je rekening.","storage":"0","varName2":"","name":"Send Message"}]}]
+[
+  null,
+  {
+    "name": "druk",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "info": "1",
+        "find": "dispatcher",
+        "storage": "1",
+        "varName": "dispatcher_role",
+        "name": "Find Role"
+      },
+      {
+        "member": "1",
+        "varName": "",
+        "role": "3",
+        "varName2": "dispatcher_role",
+        "iftrue": "0",
+        "iftrueVal": "",
+        "iffalse": "1",
+        "iffalseVal": "",
+        "name": "Check If Member has Role"
+      },
+      {
+        "channel": "3",
+        "varName": "",
+        "message": "Het is momenteel erg druk, de dispatcher kan helaas niet op al je berichtjes reageren.\nLaten we even door fietsen om de drukte door te komen!",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "huisregels",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "channel": "1",
+        "varName": "",
+        "message": "Hierbij onze huisregels:\n\n1. **Wees respectvol**\nOp de loods behandelen we elkaar met respect, zowel in de omgang als de communicatie.\n\n2. **Communiceer in het Nederlands of Engels**\nDit doen we zodat voor iedereen verstaanbaar is wat we tegen elkaar zeggen.\n\n3. **Laat je spullen netjes achter**\nJe fiets kan strak tegen de andere fietsen in de oplader. Je voorbak haal je netjes leeg en je tas zet je open terug bij de andere tassen.\n\n4. **Houd het toilet schoon**\nGa naar het toilet zoals je dat thuis ook zou doen. Laat het schoon achter voor je collega's.\n\n5. **Ruim je afval op**\nEten op de loods is prima, maar ruim wel altijd even je afval op. Je kunt dit weggooien in de ondergrondse vuilniscontainer aan de Jufferstraat.",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "10geboden",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "channel": "1",
+        "varName": "",
+        "message": "Hierbij de **10 Geboden van een goede bezorger**:\n\n1. **Blijf verbonden**\nJe telefoon is je werk. Zorg daarom dat je een powerbank bij je hebt en je telefoon minimaal 90% batterij heeft aan het begin van je shift. Ook heb je voldoende data nodig om altijd online te blijven. Houdt Discord en Scoober altijd goed in de gaten.\n\n2. **Wees op tijd**\nZorg dat je een kwartier voor aanvang van je shift aanwezig bent op de loods om je spullen te pakken. Wees ook op tijd bij het restaurant en bij de klant. Beiden krijgen een tijd door wanneer ze jou verwachten, zorg dan ook dat je (voor) die tijd bent. \n\n3. **Klaar voor de start... af!**\nCheck altijd even de route naar de klant wanneer je in het restaurant staat te wachten. Bereid je volledig voor, zodat je direct kunt vertrekken wanneer je het eten hebt ontvangen.\n\n4. **Communiceer**\nCommunicatie is ontzettend belangrijk bij Thuisbezorgd. Als er iets onverwachts gebeurd of je hebt hulp nodig, communiceer dan direct naar de dispatcher! Zo kan de dispatcher jou helpen met een oplossing. \n\n5. **Wees een Ninja in het restaurant**\nGedraag je netjes en rustig in het restaurant. Er zitten vaak mensen te eten en die willen niet gestoord worden. Pas op met je tas en bel niet in het restaurant.\n\n6. **Klant is koning**\nBehandel de klant met respect. Groet beleefd, en wens hem eetsmakelijk en een fijne avond. Lachen mag altijd! :D\n\n7. **Eten is heilig**\nHet eten moet warm en heel bij de klant aankomen. Zorg dus dat je voorzichtig de tas opzet en het onderweg niet door de tas wordt geschud. \n\n8. **Oranje familie**\nEén team één taak. Wij helpen elkaar en gaan respectvol met elkaar om. \n\n9. **Geef onderweg het goede voorbeeld**\nJe bent herkenbaar werkzaam voor Thuisbezorgd. Houdt je dus aan de Nederlandse verkeersregels. \n\n10. **Dress to impress**\nKom verzorgd op werk. Draag altijd een (korte) spijkerbroek tijdens werk, draag geen eigen hoofddeksels en zorg dat je bovenste kledingstuk altijd van Thuisbezorgd is.",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "ziek",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "channel": "1",
+        "varName": "",
+        "message": "Ziekmelden kan 's ochtends tussen **09:00 en 10:00** op het volgend telefoonnummer: **+31617752045 :telephone:**.\nJe krijgt telefonisch toestemming om vervanging te zoeken. Je bent zelf verantwoordelijk voor het regelen van je vervanging. Dit doe je in de discordgroep van Scoober Rotterdam in de chat tijd-wissel-channel. Degene die als eerst op jouw vraag reageert valt voor je in. Je geeft vervolgens in de chat door wie er voor je invalt en daarbij tag je de Hub Coordinator die online is.\n\nVerder dien je je ook ziek te melden bij Randstad. Dit dien je tussen 09:00-10:30 te doen door dit via de **Mijn Randstad app** aan te geven. In het linker menu onder het kopje 'Gezondheidszaken' kun je jezelf ziekmelden.\n\nAls je bent ziekgemeld wordt je 4 dagen uitgeroosterd (incl. de dag van de ziekmelding). Voor de dagen na je ziekmelding hoef je geen vervanging te regelen. \n\nSucces en beterschap!",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "verlof",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "channel": "1",
+        "varName": "",
+        "message": "Als je op vakantie wilt of wanneer je een tentamenweek op school hebt, kan je hier verlof voor aanvragen. \n1. **Via de Scoober app**: Wanneer je in je Scoober app in je shiftplanning kijkt, kun je daar een vakantieverzoek indienen. Druk op het vliegtuigje rechtsbovenin (Android) of druk op vakanties (Apple) en dien hier een vakantieverzoek in. Benoem altijd de reden waarom je de periode vrij wilt van werk. \n\n2. **Via de website:** Wanneer je naar https://shiftplanning.scoober.com/ gaat kun je hier inloggen met je eigen gegevens. Linksbovenin kun je drukken op het kopje 'vakanties'. Je kunt hier de begin- en einddatum invoeren en de reden waarom je verlof wilt aanvragen. \n\nHet is nu afwachten tot je teamleider het verzoek tot verlof goedkeurt.",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "beschikbaarheid",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "channel": "1",
+        "varName": "",
+        "message": "Je kunt je beschikbaarheid doorgeven via de shiftplanning in je Scoober app of via https://shiftplanning.scoober.com/. Geef **uiterlijk dinsdag 23:59 uur** je beschikbaarheid voor die week erop door. Zorg dat je **minimaal 2 shifts** beschikbaar bent, waarbij 1 shift bestaat uit minimaal 5 aaneengesloten uren. Het is ook toegestaan dat je minder dan 5 aaneengesloten uren beschikbaar bent, wanneer je van bijvoorbeeld 18:00-22:00 beschikbaar bent (4 aaneengesloten uren).\n\nWanneer je jezelf meer dan 5 uur beschikbaar zet (bijv. 6 of 7 aaneengesloten uren) dan heb je meer kans om ingeroosterd te worden. Ook heb je in de avond meer kans om ingeroosterd te worden, dan tijdens de lunch. \n\nWanneer je geen beschikbaarheid hebt doorgegeven word je op non-actief gezet totdat je een gesprek hebt gevoerd met je leidinggevende.",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "kleding",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "channel": "1",
+        "varName": "",
+        "message": "Er gelden enkele kledingvoorschriften bij Thuisbezorgd. Deze kledingvoorschriften staan vast en hier valt niet over te discussiëren. Als je je niet aan deze voorschriften houdt kan je niet werken.\n\n**Hoofddeksels**\nDe enige hoofddeksels die altijd zijn toegestaan zijn Thuisbezorgd petjes en religieuze hoofddeksels. \nHet dragen van een muts wordt in de winter toegestaan in verband met de kou. Het dragen van een capuchon wordt alleen tijdens regen toegestaan. Eigen petjes zijn niet toegestaan.\n\n**Kleding**\nThuisbezorgd kleding is verplicht. Daarnaast dragen wij tijdens werk een (korte) spijkerbroek.\nHet dragen van sportkleding/jogging broeken is niet toegestaan. Verder is kleding met open rug of buik niet toegestaan, net zoals; zwembroeken; rokken; jurkjes en hotpants. Deze kleding beschermt je namelijk niet bij eventuele valpartijen. \n\n**Schoenen**\nWij dragen tijdens het werken dichte schoenen.\nSandalen, slippers of blote voeten zijn niet toegestaan. Ook hakken zijn niet toegestaan.",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "uitbetaling",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "channel": "1",
+        "varName": "",
+        "message": "Je krijgt elke week uitbetaald door Randstad. Op woensdag of donderdag krijg je het geld op je rekening (afhankelijk van jouw bank), waarbij je later die dag de loonstrook binnenkrijgt. Deze is te zien in de 'Mijn Randstad' app onder het kopje 'geldzaken'.",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "startdienst",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "channel": "1",
+        "varName": "",
+        "message": "Bij de start van je dienst dien je **15 minuten van te voren op de loods** te zijn. Dit is zodat je even de tijd hebt om een fiets en een tas uit te kiezen en door te geven. \nBij het begin van je dienst dient je **telefoon een batterij van minimaal 90%** te hebben. Let op: dit kan gecheckt worden! Een powerbank bij je hebben is verplicht.\nGa uit jezelf de loods uit zodat je op de **start van je shift al buiten** bent.",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "vakantiesaldo",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "channel": "1",
+        "varName": "",
+        "message": "Wekelijks bouw je vakantiesaldo op bij Randstad. Jouw vakantiesaldo kun je vinden in de 'Mijn Randstad' app onder het kopje 'uren'. Het staat ook onderaan op je wekelijkse loonstrook.\n\nWanneer je dit geld uitbetaald wilt krijgen kun je dit zelf in je app aanvragen. Ga naar 'Mijn uren' en start de huidige week. Nu kan je bij 'overige uren' kiezen voor 'vakantie uren'. Vul het aantal uur in op de dag dat je deze wilt opnemen (maximaal 8 uur per dag). Je kunt je vakantie uren dus ook verdelen over meerdere dagen. Zorg er wel voor dat je de dagen dat je vakantie uren opneemt NIET WERKT, anders kan het vakantiesaldo niet uitbetaald worden. Sla het op en druk op 'verstuur week'. Je krijgt het aantal opgenomen vakantie uren de volgende week op je rekening.",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  }
+]
