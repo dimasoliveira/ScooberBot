@@ -1,1 +1,61 @@
-[null,{"name":"druk","permissions":"NONE","restriction":"1","actions":[{"info":"1","find":"dispatcher","storage":"1","varName":"dispatcher_role","name":"Find Role"},{"member":"1","varName":"","role":"3","varName2":"dispatcher_role","iftrue":"0","iftrueVal":"","iffalse":"1","iffalseVal":"","name":"Check If Member has Role"},{"channel":"2","varName":"","message":"Het is momenteel erg druk, de dispatcher kan helaas niet op al je berichtjes reageren.\nLaten we even door fietsen om de drukte door te komen!","storage":"0","varName2":"","name":"Send Message"}]}]
+[
+  null,
+  {
+    "name": "druk",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "info": "1",
+        "find": "dispatcher",
+        "storage": "1",
+        "varName": "dispatcher_role",
+        "name": "Find Role"
+      },
+      {
+        "member": "1",
+        "varName": "",
+        "role": "3",
+        "varName2": "dispatcher_role",
+        "iftrue": "0",
+        "iftrueVal": "",
+        "iffalse": "1",
+        "iffalseVal": "",
+        "name": "Check If Member has Role"
+      },
+      {
+        "channel": "2",
+        "varName": "",
+        "message": "Het is momenteel erg druk, de dispatcher kan helaas niet op al je berichtjes reageren.\nLaten we even door fietsen om de drukte door te komen!",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "huisregels",
+    "permissions": "NONE",
+    "restriction": "1",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "channel": "1",
+        "varName": "",
+        "message": "Huisregels loods:\n\n1. Laat je spullen netjes achter.\nZorg dat je de loods netjes achterlaat. Haal alles uit de voorbak van de fiets en zet je fiets strak tegen de rest aan in de oplader.\n\n2. Wees respectvol.\nOp de loods behandelen we elkaar met respect. Opmerkingen met nare bijbedoelingen worden niet getolereerd!\n\n3. Communiceer in het Nederlands of Engels.\nAls je op de loods bent moet je voor iedereen verstaanbaar zijn. Wij communiceren dus ook in het Nederlands of Engels.\n\n4. Houd het toilet schoon.\nGa op dezelfde manier naar de WC als dat je thuis zou doen.\n\n5. Ruim je afval op.\nRuim je eigen afval op. Het is prima als je nog even snel wat wil eten voor of na je dienst, maar ruim je afval wel zelf op.",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  }
+]
